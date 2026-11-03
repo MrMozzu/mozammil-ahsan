@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Muzammil Ahsan
+# ⚡ Mozammil Ahsan
 ### Software Developer • AI Engineer • Researcher • Co-Founder & CTO at MEW Academy
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Interactive%20WebGL-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrmozzu.github.io/My-Portfolio/)
