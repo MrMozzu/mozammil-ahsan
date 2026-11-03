@@ -63,39 +63,6 @@ Databases       : PostgreSQL (Supabase), SQLite, MongoDB
 
 ---
 
-## 🎨 Interactive Portfolio Architecture
-
-The portfolio web application in this repository is built with:
-
-* **WebGL Simplex Noise Distortion:** Three.js GLSL shaders with chromatic aberration and fluid mouse drag dynamics.
-* **Reactive Wave Timeline:** 56-bar audio-frequency cosine wave tracker responding dynamically to slide index changes.
-* **Kinetic Typography:** Staggered letter-reveal engines, GSAP ScrambleText, and Lenis smooth momentum scrolling.
-* **3D Cylinder Gallery & Cube:** Interactive 3D CSS and Three.js viewports showcasing real project architectures.
-* **Analog Film Grain Shader:** 25 FPS procedural noise canvas overlay for deep atmospheric presentation.
-
----
-
-## 💻 Local Development
-
-Clone the repository and run locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/MrMozzu/My-Portfolio.git
-
-# Navigate to project directory
-cd My-Portfolio
-
-# Switch to the portfolio branch (containing the web app)
-git checkout portfolio
-
-# Start a local preview server
-python -m http.server 3000
-```
-
-Open `http://localhost:3000` in your browser.
-
----
 
 ## 📫 Get in Touch
 
